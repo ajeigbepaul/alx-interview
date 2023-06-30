@@ -18,4 +18,3 @@ def pascal_triangle(n):
         prev_row = row
         triangle += [row]
     return triangle[1:]
-
